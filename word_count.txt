@@ -1,2 +1,0 @@
-  235886 word_list.txt
-this number is the number of words in the word list text file
