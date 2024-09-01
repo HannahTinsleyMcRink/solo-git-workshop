@@ -1,2 +1,2 @@
   235886 word_list.txt
-test
+this is the number of words
